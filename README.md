@@ -1,4 +1,4 @@
-# ZENT - Telegram Escrow Bot & Agent 🤖🔒
+# ZENT - Telegram Escrow Bot & Agent 🤖
 
 ZENT is a **Chat-Native Escrow System** built on **Telegram** and the **Monad Blockchain**. It empowers freelancers and clients to transact securely without leaving their favorite chat app.
 
